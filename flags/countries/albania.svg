@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="16px" height="10px" viewBox="0 0 16 10" style="enable-background:new 0 0 16 10;" xml:space="preserve">
+<style type="text/css">
+	.Drop_x0020_Shadow{fill:none;}
+	.Thick_x0020_Blue_x0020_Neon{fill:none;stroke:#0073BC;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;}
+	.Illuminating_x0020_Aqua{fill:url(#SVGID_1_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
+	
+		.Black_x0020_Highlight{fill:url(#SVGID_00000046329519671818701770000007894875016258322362_);stroke:#FFFFFF;stroke-width:0.362861;stroke-miterlimit:1;}
+	.Bugaboo_GS{fill-rule:evenodd;clip-rule:evenodd;fill:#FFDD00;}
+	.st0{fill:#FF8787;}
+	.st1{fill:#495057;stroke:#495057;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:#495057;stroke:#495057;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6.123234e-17" y2="-1">
+	<stop  offset="0" style="stop-color:#1D59F4"/>
+	<stop  offset="0.617977" style="stop-color:#2D65EE"/>
+	<stop  offset="0.629213" style="stop-color:#3864F3"/>
+	<stop  offset="0.983146" style="stop-color:#00DDFC"/>
+</linearGradient>
+<linearGradient id="SVGID_00000057862264139049521910000016249206982735334055_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6.123234e-17" y2="-1">
+	<stop  offset="0" style="stop-color:#060606"/>
+	<stop  offset="0.617977" style="stop-color:#000000"/>
+	<stop  offset="0.629213" style="stop-color:#000000"/>
+	<stop  offset="0.983146" style="stop-color:#000000"/>
+</linearGradient>
+<path class="st0" d="M15.0096836,9.9992552H1.009676c-0.5522804,0-0.9999962-0.4477158-0.9999962-0.9999962V0.9992516
+	c0-0.5522804,0.4477158-0.9999962,0.9999962-0.9999962h14.0000076c0.5522804,0,0.9999962,0.4477158,0.9999962,0.9999962V8.999259
+	C16.0096798,9.5515394,15.561964,9.9992552,15.0096836,9.9992552z"/>
+<polyline class="st1" points="6.3333335,6.875 8,6.0416665 9.666667,6.875 "/>
+<polygon class="st2" points="7.1666665,7.7083335 8,6.0416665 8.833333,7.7083335 8,8.125 "/>
+<polygon class="st2" points="8,6.0416665 6.3333335,5.2083335 6.3333335,2.7083333 8,3.5416667 9.666667,2.7083333 
+	9.666667,5.2083335 "/>
+<path class="st2" d="M7.1666665,1.875H7.381649C7.723155,1.875,8,2.1518452,8,2.493351v1.0483158V2.493351
+	C8,2.1518452,8.276845,1.875,8.618351,1.875h0.214982"/>
+</svg>
